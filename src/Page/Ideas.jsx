@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Nav from '../components/Nav';
-import Banner from '../components/Banner';
+import Nav from '../Components/Nav';
+import Banner from '../Components/Banner';
 
 const Ideas = () => {
   const [data, setData] = useState([]);

@@ -1,6 +1,6 @@
 import React from 'react';
-import Nav from '../components/Nav';
-import Banner from '../components/Banner';
+import Nav from '../Components/Nav';
+import Banner from '../Components/Banner';
 
 const Work = () => {
   return (
